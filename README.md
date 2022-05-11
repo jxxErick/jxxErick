@@ -7,7 +7,7 @@
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>  
 </div>
-## Hello there
+# Hello there
 
 I don't really know how u got here, but I will try to show a little bit about myself for you.
 
