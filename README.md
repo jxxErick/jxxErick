@@ -20,7 +20,7 @@ My name is Erick Dantas. I currently live in Minas Gerais, Brazil.
 ## Detailed information
 
 * **Name**: Erick Dantas
-* **Age**: 18
+* **Age**: 19
 * **Living in**: Uberlândia - MG, Brazil
 * **Stack**: Java - Spring boot - SQL  
 * **University**: information system in Uniessa (Start date 04/2021)
