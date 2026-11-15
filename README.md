@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Erick 👋</h1>
+<h1 align="center">Hi, I'm Erick</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Mid-level+Full-Stack+Developer;Java+%2B+Spring+Boot+on+the+back+end;Angular+on+the+front+end;Flutter+when+it+needs+an+app" alt="Mid-level Full-Stack Developer" />
@@ -11,28 +11,28 @@
 
 ---
 
-### 🧑‍💻 About me
+### About me
 
 I'm 23, based in Uberlândia (MG, Brazil), and currently working as a **Mid-level Full-Stack Developer at Praia Clube**.
 Before that I spent two years at **PayTech** building payment products, from the Spring back end to the Angular internet banking and the Flutter app.
 
-- 💼 Full-Stack Developer at **Praia Clube**
-- 🎓 Information Systems at **Uniessa** (2021–2025)
-- 🧩 In my spare time, sharpening logic on [beecrowd](https://github.com/jxxErick/beecrowd)
-- ⚡ I started coding with **JavaScript**
-- 🎧 Off the keyboard: music, One Piece and Gintama
+- Full-Stack Developer at **Praia Clube**
+- Information Systems at **Uniessa** (2021–2025)
+- In my spare time, sharpening logic on [beecrowd](https://github.com/jxxErick/beecrowd)
+- I started coding with **JavaScript**
+- Off the keyboard: music, One Piece and Gintama
 
-### 🛠️ What I've shipped
+### What I've shipped
 
 | | |
 |---|---|
-| 💸 **Payments** | Gateway with Pix (transfers, keys and receipts), bank slips and credit cards |
-| 🔐 **Security** | OAuth2, JWT, two-factor authentication and OTP |
-| 🖥️ **Front end** | Internet banking and payment links in Angular |
-| 📱 **Mobile** | White-label Flutter app: onboarding, login, Pix and bill payments |
-| ☁️ **Infra** | AWS (SQS and S3), Docker, Jenkins and Nexus |
+| **Payments** | Gateway with Pix (transfers, keys and receipts), bank slips and credit cards |
+| **Security** | OAuth2, JWT, two-factor authentication and OTP |
+| **Front end** | Internet banking and payment links in Angular |
+| **Mobile** | White-label Flutter app: onboarding, login, Pix and bill payments |
+| **Infra** | AWS (SQS and S3), Docker, Jenkins and Nexus |
 
-### 🧰 Stack
+### Stack
 
 <table align="center">
   <tr>
@@ -62,7 +62,7 @@ Before that I spent two years at **PayTech** building payment products, from the
   </tr>
 </table>
 
-### 📈 GitHub
+### GitHub
 
 <p align="center">
   <picture>
